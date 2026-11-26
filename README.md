@@ -13,6 +13,8 @@ An AWS-hosted security monitoring lab using Cowrie to emulate an SSH service and
 **Current status:** In progress — Wazuh deployment and agent onboarding have been completed to the point of accessing the dashboard and confirming an agent is running. The next milestone is verifying that the intended Cowrie telemetry reaches Wazuh and is searchable.
 
 - [Project phases, progress log, and next milestones](./AWS-Cowrie-Wazuh-SIEM-Lab.md)
+- [Evidence plan and completion checklist](./EVIDENCE-PLAN.md)
+- [Detection development workflow](./detections/README.md)
 
 ## Other Ideas and Notes
 
